@@ -66,12 +66,12 @@
         },
         {
           "anchor": "Community",
-          "href": "#",
+          "href": "https://creator.gg",
           "icon": "slack"
         },
         {
           "anchor": "Updates",
-          "href": "#",
+          "href": "https://creator.gg",
           "icon": "newspaper"
         }
       ]
@@ -96,9 +96,9 @@
   },
   "footer": {
     "socials": {
-      "x": "#",
-      "github": "#",
-      "linkedin": "#"
+      "x": "https://creator.gg",
+      "github": "https://creator.gg",
+      "linkedin": "https://creator.gg"
     }
   }
 }
